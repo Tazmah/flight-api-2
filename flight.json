@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Hamzat Abdul-Muizz",
+    "title": "Flight to Australia",
+    "time": "3am",
+    "price": "30000",
+    "date": "26-09-2022",
+    "location": {
+      "country": "Australia",
+      "state": "Australian State"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Habeeb Malik",
+    "title": "flight to canada",
+    "time": "1pm",
+    "price": "16000",
+    "date": "5-06-2022",
+    "location": {
+      "country": "Canada",
+      "state": "Canadian State"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sanusi Lamido",
+    "title": "flight to Russia",
+    "time": "12pm",
+    "price": "26000",
+    "date": "12-06-2022",
+    "location": {
+      "country": "Russia",
+      "state": "Russian state"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Big Roqeeb",
+    "title": "flight to Senegal",
+    "time": "4pm",
+    "price": "6000",
+    "date": "26-06-2022",
+    "location": {
+      "country": "Senegal",
+      "state": "Senegal State"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Azeez Hakeem",
+    "title": "flight to London",
+    "time": "4pm",
+    "price": "30000",
+    "date": "6-4-2022",
+    "location": {
+      "country": "London",
+      "state": "London Colony"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Adesiyan Malik",
+    "title": "flight to France",
+    "time": "2am",
+    "price": "20000",
+    "date": "11-04-2022",
+    "location": {
+      "country": "France",
+      "state": "France State"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Yahaya Muhammad",
+    "title": "flight to Usa",
+    "time": "3pm",
+    "price": "26000",
+    "date": "26-06-2022",
+    "location": {
+      "country": "Usa",
+      "state": "Usa State"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mahmood Abdul-Muizz",
+    "title": "flight to Qatar",
+    "time": "1am",
+    "price": "26000",
+    "date": "26-06-2022",
+    "location": {
+      "country": "Qatar",
+      "state": "Qatar State"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Adesiyan Malik",
+    "title": "flight to France",
+    "time": "2am",
+    "price": "20000",
+    "date": "11-04-2022",
+    "location": {
+      "country": "France",
+      "state": "France State"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Sodiq Habeeb",
+    "title": "flight to France",
+    "time": "2am",
+    "price": "20000",
+    "date": "11-04-2022",
+    "location": {
+      "country": "France",
+      "state": "France State"
+    }
+  }
+]
